@@ -1,0 +1,12 @@
+{
+    "fenomen": "http://fenomen.listenfenomen.com/fenomen/256/icecast.audio",
+    "kralPop": "http://46.20.3.201/",
+    "kralFm": "http://46.20.3.204/",
+    "powerFm": "http://powerfm.listenpowerapp.com/powerfm/mpeg/icecast.audio",
+    "bestFM": "http://46.20.7.125/listen.pls",
+    "http://fenomen.listenfenomen.com/fenomen/256/icecast.audio": "fenomen",
+    "http://46.20.3.201/": "kralPop",
+    "http://46.20.3.204/": "kralFm",
+    "http://powerfm.listenpowerapp.com/powerfm/mpeg/icecast.audio": "powerFm",
+    "http://46.20.7.125/listen.pls": "bestFM"
+}
